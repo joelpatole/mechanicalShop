@@ -1,0 +1,1 @@
+{"version":3,"file":"rating.service.js","sourceRoot":"","sources":["../../../../app/featured-modules/rating/rating.service.ts"],"names":[],"mappings":";;;;;;;;;;;;;;AACA,wEAA+C;AAI/C,MAAM,WAAW,GAAG,CAAM,MAA2B,EAAC,UAAmB,EAAC,EAAE;IACxE,MAAM,MAAM,GAAG,MAAM,sBAAW,CAAC,OAAO,CAAC,MAAM,EAAC,UAAU,CAAC,CAAC;IAC5D,OAAO,MAAM,CAAC;AAClB,CAAC,CAAA,CAAA;AAED,kBAAc;IACV,WAAW;CACd,CAAA"}
